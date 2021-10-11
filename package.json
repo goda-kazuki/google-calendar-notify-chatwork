@@ -1,0 +1,22 @@
+{
+  "name": "google-calendar-notify-chatwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goda-kazuki/google-calendar-notify-chatwork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goda-kazuki/google-calendar-notify-chatwork/issues"
+  },
+  "homepage": "https://github.com/goda-kazuki/google-calendar-notify-chatwork#readme",
+  "dependencies": {
+    "googleapis": "^88.2.0"
+  }
+}
